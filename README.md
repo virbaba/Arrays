@@ -1,1 +1,2 @@
 # Arrays
+DSA arrays question 
